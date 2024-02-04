@@ -24,6 +24,7 @@
         "devextreme-dist": "23.2.3",
         "devextreme-vue": "^23.2.3",
         "gh-pages": "^5.0.0",
+        "axios": "1.6.7",
         "glob": "^10.2.2",
         "jquery": "^3.6.0",
         "sass": "^1.61.0",
